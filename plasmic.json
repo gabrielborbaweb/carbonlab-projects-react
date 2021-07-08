@@ -23,20 +23,33 @@
   "projects": [
     {
       "projectId": "gsgSHLmWb1QSgLbNnKk81t",
-      "projectName": "Blank project",
+      "projectName": "Projects",
       "version": "latest",
       "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
       "components": [
         {
           "id": "I1gQ4BA44ABJ",
-          "name": "Homepage",
+          "name": "Projects",
           "type": "managed",
           "projectId": "gsgSHLmWb1QSgLbNnKk81t",
-          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "renderModuleFilePath": "plasmic/projects/PlasmicProjects.jsx",
           "importSpec": {
-            "modulePath": "Homepage.jsx"
+            "modulePath": "Projects.jsx"
           },
-          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "cssFilePath": "plasmic/projects/PlasmicProjects.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "ZpIM-VeN3n",
+          "name": "TestPage",
+          "type": "managed",
+          "projectId": "gsgSHLmWb1QSgLbNnKk81t",
+          "renderModuleFilePath": "plasmic/projects/PlasmicTestPage.jsx",
+          "importSpec": {
+            "modulePath": "TestPage.jsx"
+          },
+          "cssFilePath": "plasmic/projects/PlasmicTestPage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }

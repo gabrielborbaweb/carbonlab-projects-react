@@ -12,24 +12,34 @@
           "checksum": "d4a179df4f79dc16fe91a5e2f9f6f0fd"
         },
         {
+          "type": "renderModule",
+          "assetId": "I1gQ4BA44ABJ",
+          "checksum": "33d686481fc5c7422225a09e18736022"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "I1gQ4BA44ABJ",
+          "checksum": "33d686481fc5c7422225a09e18736022"
+        },
+        {
+          "type": "image",
+          "assetId": "Dgkm3Z6s0",
+          "checksum": "b920282ea6babf350f297dca9f8644e2"
+        },
+        {
           "assetId": "gsgSHLmWb1QSgLbNnKk81t",
           "type": "projectCss",
           "checksum": "8004d139bc03b6c85e1025c5275b95b4"
         },
         {
           "type": "renderModule",
-          "assetId": "I1gQ4BA44ABJ",
-          "checksum": "1a72036956f87654b4ceefe8aa26f23c"
+          "assetId": "ZpIM-VeN3n",
+          "checksum": "2c0c1740c42dee0400ad37bd180b9e84"
         },
         {
           "type": "cssRules",
-          "assetId": "I1gQ4BA44ABJ",
-          "checksum": "1a72036956f87654b4ceefe8aa26f23c"
-        },
-        {
-          "type": "image",
-          "assetId": "Dgkm3Z6s0",
-          "checksum": "b920282ea6babf350f297dca9f8644e2"
+          "assetId": "ZpIM-VeN3n",
+          "checksum": "2c0c1740c42dee0400ad37bd180b9e84"
         }
       ]
     }
