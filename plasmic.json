@@ -1,0 +1,68 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "gsgSHLmWb1QSgLbNnKk81t",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "I1gQ4BA44ABJ",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "gsgSHLmWb1QSgLbNnKk81t",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [],
+      "images": [
+        {
+          "id": "Dgkm3Z6s0",
+          "name": "mockup-periscope.png",
+          "filePath": "plasmic/blank_project/images/mockupPeriscopepng.png"
+        }
+      ],
+      "codeComponents": [],
+      "projectApiToken": "Ofd4pLFhpDs6kOor16E9o6EPGzCAKjFmIL8Qtx1nKjqmAJWrkYvXqBElP0KHcd63ccHp0gCVjBcno0P7gFdg"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "l4b1ou-zy-A4",
+        "name": "Screen",
+        "projectId": "gsgSHLmWb1QSgLbNnKk81t",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.157",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
+}
